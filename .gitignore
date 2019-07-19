@@ -1,4 +1,6 @@
 .DS_store
 land_value_datasets
-NSW_revenue_dataset.csv
+crime_suburb_data.csv
+259_LAND_VALUE_DATA_20190701.csv
 suburb_geospatial_dataset.geojson
+week7
